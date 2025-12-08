@@ -1,0 +1,5 @@
+{
+  "name": "Industrial AI Vision",
+  "description": "Video-based manufacturing process analysis using Gemini Pro to simulate sensor data and detect anomalies.",
+  "requestFramePermissions": []
+}
